@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Breno Salomão</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
-- 🔭 I’m currently working on Brazilian Air Force
+- 🔭 I’m currently working at Brazilian Air Force
 
 - 🌱 I’m currently learning: **Computer Vision: Algorithms and Applications**
 
